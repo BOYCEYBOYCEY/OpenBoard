@@ -1,2 +1,2 @@
 # project
-https://boyceyboycey.github.io/projectt/openboard.html
+https://boyceyboycey.github.io/projectt
